@@ -1,6 +1,6 @@
 # FormulaInput Project
 
-[DEMO-LINK](https://holyraveos.github.io/FormulaInput/)
+[DEMO-LINK](https://kyryloivanov17.github.io/inputTest/)
 
 ## Overview
 
